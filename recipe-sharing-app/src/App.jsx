@@ -10,6 +10,7 @@ import AddRecipeForm from "./components/AddRecipeForm";
 import { useRecipeStore } from "./recipeStore";
 import RecommendationsList from "./components/RecommendationsList";
 import FavoritesList from "./components/FavoritesList";
+import RecipeList from "./components/RecipeList";
 
 const App = () => {
   return (
